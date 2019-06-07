@@ -1,0 +1,1241 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5cd430eb6a60712128752e38"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "5a2285eddee7701b1d63d2d3",
+        "name": "Trainmore",
+        "location": {
+          "address": "Coolsingel 63",
+          "lat": 51.92291909950766,
+          "lng": 4.478042374114597,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92291909950766,
+              "lng": 4.478042374114597
+            }
+          ],
+          "postalCode": "3012 AS",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 63",
+            "3012 AS Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d175941735",
+            "name": "Gym \/ Fitness Center",
+            "pluralName": "Gyms or Fitness Centers",
+            "shortName": "Gym \/ Fitness",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4b83cb72f964a520d71031e3",
+        "name": "Stadhuis",
+        "location": {
+          "address": "Coolsingel 40",
+          "lat": 51.92258962728412,
+          "lng": 4.480227190204032,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92258962728412,
+              "lng": 4.480227190204032
+            }
+          ],
+          "postalCode": "3011 AD",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 40",
+            "3011 AD Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d129941735",
+            "name": "City Hall",
+            "pluralName": "City Halls",
+            "shortName": "City Hall",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/cityhall_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "57051b94cd109e9534173678",
+        "name": "Decathlon",
+        "location": {
+          "address": "Coolsingel 45",
+          "lat": 51.9232227,
+          "lng": 4.4777752,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.9232227,
+              "lng": 4.4777752
+            }
+          ],
+          "postalCode": "3012 AA",
+          "cc": "NL",
+          "neighborhood": "Cool",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 45",
+            "3012 AA Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f2941735",
+            "name": "Sporting Goods Shop",
+            "pluralName": "Sporting Goods Shops",
+            "shortName": "Sporting Goods",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/sports_outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "5ba3b6552aff31002c73af4f",
+        "name": "Five Guys",
+        "location": {
+          "address": "Stadhuisplein 18",
+          "lat": 51.92219737824382,
+          "lng": 4.477691699077315,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92219737824382,
+              "lng": 4.477691699077315
+            }
+          ],
+          "postalCode": "3012 AS",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Stadhuisplein 18",
+            "3012 AS Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "590f0fc782a750569d14ade6",
+        "name": "Rotterdam",
+        "location": {
+          "lat": 51.922644,
+          "lng": 4.478817,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922644,
+              "lng": 4.478817
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "50aaa4314b90af0d42d5de10",
+            "name": "Island",
+            "pluralName": "Islands",
+            "shortName": "Island",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "5ab8ecc112f0a910328064de",
+        "name": "Served",
+        "location": {
+          "address": "8 Coolsingel",
+          "lat": 51.92355,
+          "lng": 4.478819,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92355,
+              "lng": 4.478819
+            }
+          ],
+          "postalCode": "3011 AD",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "8 Coolsingel",
+            "3011 AD Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4d6ff0919aac224b2b6434ed",
+        "name": "Holbeinhuis",
+        "location": {
+          "address": "Coolsingel 65",
+          "lat": 51.922311050000005,
+          "lng": 4.478521,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922311050000005,
+              "lng": 4.478521
+            }
+          ],
+          "postalCode": "3012AC",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 65",
+            "3012AC Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d125941735",
+            "name": "Tech Startup",
+            "pluralName": "Tech Startups",
+            "shortName": "Tech Startup",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/technology_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "578b85c6498e6cad2b5424d4",
+        "name": "Cornelis",
+        "location": {
+          "lat": 51.922453001057995,
+          "lng": 4.477939071300272,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922453001057995,
+              "lng": 4.477939071300272
+            }
+          ],
+          "postalCode": "3012 AR",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "3012 AR Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d155941735",
+            "name": "Gastropub",
+            "pluralName": "Gastropubs",
+            "shortName": "Gastropub",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/gastropub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4be1736c0f03a593164a19b4",
+        "name": "Stadhuisplein",
+        "location": {
+          "address": "Stadhuisplein",
+          "lat": 51.92230670637345,
+          "lng": 4.47707722093027,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92230670637345,
+              "lng": 4.47707722093027
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Stadhuisplein",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d164941735",
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/plaza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4ec376860aafcf9a808cd4d1",
+        "name": "ABN Amro Bank",
+        "location": {
+          "address": "Coolsingel 93",
+          "lat": 51.92133623151716,
+          "lng": 4.478085948510968,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92133623151716,
+              "lng": 4.478085948510968
+            }
+          ],
+          "postalCode": "3012 AE",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 93",
+            "3012 AE Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Bank",
+            "pluralName": "Banks",
+            "shortName": "Bank",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4ccbc991b571b60c9661ce65",
+        "name": "Open Universiteit",
+        "location": {
+          "address": "Coolsingel 60",
+          "lat": 51.92252319325561,
+          "lng": 4.4785757869594836,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92252319325561,
+              "lng": 4.4785757869594836
+            }
+          ],
+          "postalCode": "3011",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 60",
+            "3011 Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ae941735",
+            "name": "University",
+            "pluralName": "Universities",
+            "shortName": "University",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "5ad8ba00c9f907797617add0",
+        "name": "V&A Advocaten",
+        "location": {
+          "address": "Coolsingel 63",
+          "lat": 51.92278,
+          "lng": 4.4779882,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92278,
+              "lng": 4.4779882
+            }
+          ],
+          "postalCode": "3012AB",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 63",
+            "3012AB Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b3f",
+            "name": "Lawyer",
+            "pluralName": "Lawyers",
+            "shortName": "Lawyer",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/lawschool_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4d53ac952f638cfa072b656a",
+        "name": "Gemeente Rotterdam",
+        "location": {
+          "address": "Coolsingel 6",
+          "lat": 51.92306561369161,
+          "lng": 4.480068298407397,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92306561369161,
+              "lng": 4.480068298407397
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 6",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d126941735",
+            "name": "Government Building",
+            "pluralName": "Government Buildings",
+            "shortName": "Government",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "59f85e74646e387cd2c56fb0",
+        "name": "Albert Heijn",
+        "location": {
+          "address": "Coolsingel 131a",
+          "crossStreet": "Kruiskade",
+          "lat": 51.92310441306824,
+          "lng": 4.478269299152294,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92310441306824,
+              "lng": 4.478269299152294
+            }
+          ],
+          "postalCode": "3012 AB",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 131a (Kruiskade)",
+            "3012 AB Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b46",
+            "name": "Supermarket",
+            "pluralName": "Supermarkets",
+            "shortName": "Supermarket",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4b4f6bbbf964a520e10527e3",
+        "name": "McDonald's",
+        "location": {
+          "address": "Coolsingel 44",
+          "lat": 51.92148598542948,
+          "lng": 4.479590228071998,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92148598542948,
+              "lng": 4.479590228071998
+            }
+          ],
+          "postalCode": "3011 AD",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 44",
+            "3011 AD Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4c52ff97bfc6ef3ba50c539c",
+        "name": "John Edward",
+        "location": {
+          "address": "Coolsingel 97",
+          "crossStreet": "Aert van Nesstraat",
+          "lat": 51.921309,
+          "lng": 4.479412,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.921309,
+              "lng": 4.479412
+            }
+          ],
+          "postalCode": "3012 AG",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 97 (Aert van Nesstraat)",
+            "3012 AG Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d106951735",
+            "name": "Men's Store",
+            "pluralName": "Men's Stores",
+            "shortName": "Men's Store",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_men_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4f89691be4b002b90b2ea265",
+        "name": "Kidsrun Rotterdam",
+        "location": {
+          "lat": 51.92221180937828,
+          "lng": 4.478901368086345,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92221180937828,
+              "lng": 4.478901368086345
+            }
+          ],
+          "cc": "NL",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4f4528bc4b90abdf24c9de85",
+            "name": "Athletics & Sports",
+            "pluralName": "Athletics & Sports",
+            "shortName": "Athletics & Sports",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/sports_outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4bfa3e075317a5939664027f",
+        "name": "Roparun",
+        "location": {
+          "address": "Coolsingel",
+          "lat": 51.92241158888558,
+          "lng": 4.478661500524083,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92241158888558,
+              "lng": 4.478661500524083
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d164941735",
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/plaza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4dd6a6207d8b322663dc3f13",
+        "name": "Schroder Modestoffen",
+        "location": {
+          "address": "Coolsingel 80",
+          "lat": 51.921325213209904,
+          "lng": 4.479007148989327,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.921325213209904,
+              "lng": 4.479007148989327
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 80",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d127951735",
+            "name": "Arts & Crafts Store",
+            "pluralName": "Arts & Crafts Stores",
+            "shortName": "Arts & Crafts",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/artstore_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4b67433df964a5208f442be3",
+        "name": "Metrostation Stadhuis",
+        "location": {
+          "address": "Coolsingel 24",
+          "lat": 51.92329686783721,
+          "lng": 4.478428190749754,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92329686783721,
+              "lng": 4.478428190749754
+            }
+          ],
+          "postalCode": "3011 AD",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 24",
+            "3011 AD Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fd931735",
+            "name": "Metro Station",
+            "pluralName": "Metro Stations",
+            "shortName": "Metro",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/subway_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "598c5bf035dfa7464e6cb781",
+        "name": "Cools Urban Office Lofts",
+        "location": {
+          "lat": 51.92174,
+          "lng": 4.4790993,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92174,
+              "lng": 4.4790993
+            }
+          ],
+          "postalCode": "3012 AE",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "3012 AE Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "53354965498e214fa36e871c",
+        "name": "Timmerhuis",
+        "location": {
+          "address": "Meent 199",
+          "lat": 51.922278,
+          "lng": 4.481258,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922278,
+              "lng": 4.481258
+            }
+          ],
+          "postalCode": "3011 JH",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Meent 199",
+            "3011 JH Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4f621a32e4b034b45f4c8fd2",
+        "name": "fraktiekamer pvda Stadhuis Rotterdam",
+        "location": {
+          "address": "Coolsingel 40, 3011 Deelgemeente Centrum",
+          "lat": 51.922691134431496,
+          "lng": 4.479886224317169,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922691134431496,
+              "lng": 4.479886224317169
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 40, 3011 Deelgemeente Centrum",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4da17846c6e96ea8005fc15d",
+        "name": "Start Marathon Rotterdam",
+        "location": {
+          "lat": 51.92248239644751,
+          "lng": 4.478481318903226,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92248239644751,
+              "lng": 4.478481318903226
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d106941735",
+            "name": "Track",
+            "pluralName": "Tracks",
+            "shortName": "Track",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_track_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4dc0357743a147cd6ed3799d",
+        "name": "Oude Postkantoor",
+        "location": {
+          "address": "Coolsingel 42",
+          "lat": 51.92189966075603,
+          "lng": 4.479753959568279,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92189966075603,
+              "lng": 4.479753959568279
+            }
+          ],
+          "postalCode": "3011 AD",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel 42",
+            "3011 AD Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12d941735",
+            "name": "Monument \/ Landmark",
+            "pluralName": "Monuments \/ Landmarks",
+            "shortName": "Landmark",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_monument_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "5acceda0a8792140a34972fe",
+        "name": "Salsa Shop",
+        "location": {
+          "address": "Stadhuisplein 28",
+          "lat": 51.922226,
+          "lng": 4.477311,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.922226,
+              "lng": 4.477311
+            }
+          ],
+          "postalCode": "3012 AS",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Stadhuisplein 28",
+            "3012 AS Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c1941735",
+            "name": "Mexican Restaurant",
+            "pluralName": "Mexican Restaurants",
+            "shortName": "Mexican",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/mexican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4ad8ad14f964a5209e1321e3",
+        "name": "Rob Peetoom Hair + Make Up Rotterdam",
+        "location": {
+          "address": "Meent 128",
+          "lat": 51.92147814064775,
+          "lng": 4.48016753631351,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92147814064775,
+              "lng": 4.48016753631351
+            }
+          ],
+          "postalCode": "3011 JS",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Meent 128",
+            "3011 JS Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d110951735",
+            "name": "Salon \/ Barbershop",
+            "pluralName": "Salons \/ Barbershops",
+            "shortName": "Salon \/ Barbershop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/salon_barber_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4b1e7d10f964a520771a24e3",
+        "name": "Burgerzaal",
+        "location": {
+          "address": "Coolsingel",
+          "lat": 51.92261361540558,
+          "lng": 4.479747276881436,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92261361540558,
+              "lng": 4.479747276881436
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Coolsingel",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4bbe0ef88a4fb7133dc63d9d",
+        "name": "Coconuts",
+        "location": {
+          "address": "Stadhuisplein",
+          "lat": 51.92235699574658,
+          "lng": 4.477357177369698,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92235699574658,
+              "lng": 4.477357177369698
+            }
+          ],
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Stadhuisplein",
+            "Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      },
+      {
+        "id": "4c39fbf618e72d7f3c0e1bf5",
+        "name": "Café 't Fust",
+        "location": {
+          "address": "Stadhuisplein 21",
+          "lat": 51.92231944786763,
+          "lng": 4.477209126727022,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.92231944786763,
+              "lng": 4.477209126727022
+            }
+          ],
+          "postalCode": "3012 AR",
+          "cc": "NL",
+          "city": "Rotterdam",
+          "state": "South Holland",
+          "country": "Netherlands",
+          "formattedAddress": [
+            "Stadhuisplein 21",
+            "3012 AR Rotterdam",
+            "Netherlands"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557410027",
+        "hasPerk": false
+      }
+    ],
+    "confident": false,
+    "geocode": {
+      "what": "",
+      "where": "rotterdam",
+      "feature": {
+        "cc": "NL",
+        "name": "Rotterdam",
+        "displayName": "Rotterdam, Netherlands",
+        "matchedName": "Rotterdam, Netherlands",
+        "highlightedName": "<b>Rotterdam<\/b>, Netherlands",
+        "woeType": 7,
+        "slug": "rotterdam-netherlands",
+        "id": "geonameid:2747891",
+        "longId": "72057594040675827",
+        "geometry": {
+          "center": {
+            "lat": 51.9225,
+            "lng": 4.47917
+          },
+          "bounds": {
+            "ne": {
+              "lat": 52.00246596220137,
+              "lng": 4.602243821532465
+            },
+            "sw": {
+              "lat": 51.84261099007095,
+              "lng": 3.979672029226747
+            }
+          }
+        }
+      },
+      "parents": []
+    }
+  }
+}

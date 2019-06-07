@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ABNAndroidAssessment</string>
+    <string name="search_hint">search venues</string>
+    <string name="venue_photo">photo</string>
+    <string name="venue_name">name</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="empty_search_result">No results for <b>%s</b></string>
+</resources>

@@ -3,7 +3,7 @@ ABN AMERO Coding assignment
 
 Requirement :
 
-create an app that shows 10 venues around a given place (e.g. Rotterdam) with a radius
+create an app that shows 10 venues around a given place (e.g. Rotterdam, utrecht) with a radius
 of 1000 meters.
 
 The App is composed of 2 screens, list and its detail screen.

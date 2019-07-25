@@ -75,9 +75,3 @@ The project uses [MockWebServer][mockwebserver] project to test REST api interac
 * Espresso for UI tests
 * mockito for mocking in tests
 
-
-
-
-
-
-

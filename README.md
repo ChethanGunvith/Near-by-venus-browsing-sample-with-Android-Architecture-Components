@@ -1,5 +1,11 @@
-ABN AMERO Coding assignment
-===========================================================
+Android Architecture Blueprints is a project to showcase different architectural approaches to developing Android apps. 
+
+***NOTE*** It is a relatively more complex and complete example so if you are not familiar with Architecture Components, you are highly recommended to check other examples in this repository first.
+
+# Introduction
+##### Functionality
+
+The app is composed of 3 main screens.
 
 Requirement :
 
@@ -65,13 +71,14 @@ mock database.
 The project uses [MockWebServer][mockwebserver] project to test REST api interactions.
 
 
-### Libraries
-* Android Support Library, support-lib
-* Android Architecture Components
-* Android Data Binding data-binding
-* Dagger 2 for dependency injection
-* Retrofit for REST api communication
-* Glide for image loading
-* Espresso for UI tests
-* mockito for mocking in tests
+Libraries
+- Android Support Library
+- Android Architecture Components
+- Android Data Binding
+- Dagger 2 for dependency injection
+- Retrofit for REST api communication
+- Glide for image loading
+- Timber for logging
+- espresso for UI tests
+- mockito for mocking in tests
 
